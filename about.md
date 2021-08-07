@@ -5,4 +5,5 @@ title: About
 
 # [guijin.SON - Tabula Rasa.](https://yamt.netlify.app/)
 
-Let's Try Something Over Here
+Something BIG is about to happen.  
+Welcome to my very own blog :)
