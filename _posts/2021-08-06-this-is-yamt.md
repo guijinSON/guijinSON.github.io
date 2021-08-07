@@ -1,5 +1,5 @@
 ---
-title: Hello, There!
+title: Hello, There! Welcome to my blog :)
 layout: post
 categories: [Typography, Markdown, Tips]
 image: /assets/img/logo.jpg
