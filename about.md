@@ -3,7 +3,7 @@ layout: default
 title: About
 ---
 
-# [🔥GUIJIN SON🔥](https://yamt.netlify.app/)
+# [Call me SON!](https://yamt.netlify.app/)
 
 Something BIG is about to happen.  
 Welcome to my very own blog :)
