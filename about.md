@@ -3,4 +3,4 @@ layout: default
 title: About
 ---
 
-# [guijin.SON - Minimal Mistakes & Improvements.](https://yamt.netlify.app/)
+# [guijin.SON - Tabula Rasa.](https://yamt.netlify.app/)
