@@ -5,9 +5,8 @@ title: About
 
 # [Call me SON!](https://yamt.netlify.app/)
 
-Something BIG is about to happen.  
 Welcome to my very own blog :)
-
+Below is my resumé, updated on July, 2021.
 <iframe src="https://drive.google.com/file/d/1UUeapqMxbrD9MniSedQwv8cxsxCFiefy/preview" width="640" height="800"></iframe>
 
 
