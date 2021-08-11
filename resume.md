@@ -1,9 +1,9 @@
 ---
 layout: default
-title: About
+title: Resume
 ---
 
-# [Call me SON!](https://yamt.netlify.app/)
+# [Resume](https://yamt.netlify.app/)
 
 Welcome to my very own blog :)
 Below is my resumé, updated on July, 2021.
