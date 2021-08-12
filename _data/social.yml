@@ -5,7 +5,7 @@
 social:
   - {icon: 'github', type: "brand", link: 'https://github.com/guijinSON'}
   - {icon: 'linkedin', type: "brand", link: 'https://www.linkedin.com/in/guijin-son-4909331bb/'}
-  - {icon: 'instagram-square', type: "brand", link: 'https://www.instagram.com/ampheta_mine_/'}
+  - {icon: 'instagram-square', type: "brand", link: 'https://www.instagram.com/guijin.son/'}
   - {icon: 'youtube', type: "brand", link: 'https://www.youtube.com/channel/UCTVq8RCipEGHoNXnnxnYteg'}
   
   - {icon: 'envelope', type: "solid", link: 'mailto:spthsrbwls123@yonsei.ac.kr'}
