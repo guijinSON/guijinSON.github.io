@@ -19,4 +19,10 @@ The BERT architecture is commonly mentioned as a counterpart for the GPT, a lang
 ### General Language Representations
 Just like ELMo (Peters et al .,2018), BERT is also a General Language Representation model which means, that given a sequence of input tokens the model will output a fixed-sized vector (usually Sequence Length * Hidden Dimension). In order for the model to acquire its ability to construct meaningful output representations, it undergoes a process called **Pre-Training**. This paper introduces two Pre-Training objectives, **Masked Langauge Modeling(MLM)** and **Next Sentence Prediction (NSP)**. Each objective attempts to add on different features, MLM is expected to help learn token-level relationships and knowledge, and NSP attempts to supervise BERT with sentence-level information.  
 
-For MLM, the data generator intentionally corrupts the input by replacing 15% of the tokens at random. The final output vectors corresponding to the corrupted tokens are fed into a softmax function for the entire vocabulary, and the vocab with the highest prob is predicted as the original token (the one before corruption). This way of training, however, has been pointed out to cause a problem called, **Pretrain-Finetune Discrepancy**.
+For MLM, the data generator intentionally corrupts the input by replacing 15% of the tokens at random. The final output vectors corresponding to the corrupted tokens are fed into a softmax function for the entire vocabulary, and the vocab with the highest prob is predicted as the original token (the one before corruption). This way of training, however, has been pointed out to cause a problem called, **Pretrain-Finetune Discrepancy**. Pretrain-Finetune Discrepancy refers to a mismatch caused by MLM, as no tokens are masked during downstream tasks. (Naively, the BERT model might train itself to classify only those with [MASK] tokens as a valid sentence.) To mitigate such problems, instead of replacing every 15% of the randomly selected tokens with masks, the paper adopts a mixed masking strategy.
+
+<p align="center">
+  <img width="500"src="https://github.com/guijinSON/guijinSON.github.io/blob/46a508ff868f475905f8a24287501872cea2b9f6/assets/img/An%20NLP%20Classic,%20BERT/masking.png" >
+</p>
+
+
