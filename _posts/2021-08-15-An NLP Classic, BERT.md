@@ -34,6 +34,10 @@ BERT adopts an architecture very reminiscent of that of a Transformer (Vaswani e
 
 In the given structure, the causal self-head attention aims to capture the relationship between tokens, especially contextual information. On the other hand, the feed-forward network serves as a fancy concatenation layer that learns non-linear hierarchical features. One aspect that differentiates BERT from the Transformer is its input embeddings, unlike its predecessor, BERT sums token, segmentation, and positional embeddings for its input. These are intended to provide additional information to help the model encode both token and sentence level information.
 
+<image src="https://raw.githubusercontent.com/guijinSON/guijinSON.github.io/master/assets/img/An%20NLP%20Classic%2C%20BERT/embedddings.png" width=500px />
+
+
+
 ### References
 
 1. [Peters, Matthew E., et al. "Deep contextualized word representations." arXiv preprint arXiv:1802.05365 (2018).](https://arxiv.org/abs/1802.05365)
