@@ -32,13 +32,15 @@ BERT adopts an architecture very reminiscent of that of a Transformer (Vaswani e
 
 <image src="https://raw.githubusercontent.com/guijinSON/guijinSON.github.io/master/assets/img/An%20NLP%20Classic%2C%20BERT/architecture.png" width=200px/>
 
-In the given structure, the causal self-head attention aims to capture the relationship between tokens, especially contextual information. On the other hand, the feed-forward network serves as a fancy concatenation layer that learns non-linear hierarchical features. One aspect that differentiates BERT from the Transformer is its input embeddings, unlike its predecessor, BERT sums token, segmentation, and positional embeddings for its input. These are intended to provide additional information to help the model encode both token and sentence level information.
+In the given structure, the causal self-head attention aims to capture the relationship between tokens, especially semantic information. On the other hand, the feed-forward network serves as a fancy concatenation layer that learns non-linear hierarchical features. One aspect that differentiates BERT from the Transformer is its input embeddings, unlike its predecessor, BERT sums token, segmentation, and positional embeddings for its input. These are intended to provide additional information to help the model encode both token and sentence level information.
 
-<image src="https://raw.githubusercontent.com/guijinSON/guijinSON.github.io/master/assets/img/An%20NLP%20Classic%2C%20BERT/embedddings.png" width=600px />
+<image src="https://raw.githubusercontent.com/guijinSON/guijinSON.github.io/master/assets/img/An%20NLP%20Classic%2C%20BERT/embedddings.png" width=600px /> 
 
+### Performance & Implications 
 
 
 ### References
 
-1. [Peters, Matthew E., et al. "Deep contextualized word representations." arXiv preprint arXiv:1802.05365 (2018).](https://arxiv.org/abs/1802.05365)
-2. [Vaswani, Ashish, et al. "Attention is all you need." Advances in neural information processing systems. 2017.](https://arxiv.org/abs/1706.03762)
+\[1] [Devlin, Jacob, et al. "Bert: Pre-training of deep bidirectional transformers for language understanding." arXiv preprint arXiv:1810.04805 (2018).](https://arxiv.org/pdf/1810.04805.pdf)
+\[2] [Peters, Matthew E., et al. "Deep contextualized word representations." arXiv preprint arXiv:1802.05365 (2018).](https://arxiv.org/abs/1802.05365)
+\[3] [Vaswani, Ashish, et al. "Attention is all you need." Advances in neural information processing systems. 2017.](https://arxiv.org/abs/1706.03762)
