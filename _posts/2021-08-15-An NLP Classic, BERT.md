@@ -25,4 +25,12 @@ For MLM, the data generator intentionally corrupts the input by replacing 15% of
   
 As shown above, the paper examines different masking strategies and consequently, they do not replace every selected token with a mask. Instead, only 80% of the selected tokens are masked, the other 10% is replaced with a random vocabulary, and the left 10% remains unchanged.  
 
-Since MLM fails to capture the relationship between sentences, NSP is introduced. For the NSP task, the data generator constructs the input sentence by merging two different sentences A and B. 50% of the time B is the actual next sentence for A, while for the other half they are two irrelevant sentences. By predicting whether the two sentences come from the same context, BERT learns to understand sentence-level information.
+Since MLM fails to capture the relationship between sentences, NSP is introduced. For the NSP task, the data generator constructs the input sentence by merging two different sentences *A* and *B*. 50% of the time *B* is the actual next sentence for *A*, while for the other half they are two irrelevant sentences. By predicting whether the two sentences come from the same context, BERT learns to understand sentence-level information.  
+
+### Model Architecture 
+BERT adopts an architecture very reminiscent of that of a Transformer (Vaswani et al .,2017). However, being an encoder-only model instead of inheriting the entire structure it only uses the encoder part. A BERT_base model would stack 12 encoder blocks, where each is compromised of **causal self-head attentions** and a **feed-forward network**.
+
+### References
+
+1. [Peters, Matthew E., et al. "Deep contextualized word representations." arXiv preprint arXiv:1802.05365 (2018).](https://arxiv.org/abs/1802.05365)
+2. [Vaswani, Ashish, et al. "Attention is all you need." Advances in neural information processing systems. 2017.](https://arxiv.org/abs/1706.03762)
