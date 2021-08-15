@@ -15,3 +15,6 @@ The first paper I would be reviewing on my blog is an NLP classic, *"BERT: Pre-T
 ### Brief Introduction
 BERT is a powerful language encoding model, which obtained SOTA results on eleven NLP leaderboards only with minor modifications for each task.
 The BERT architecture is commonly mentioned as a counterpart for the GPT, a language model from OpenAI, except the fact that it is designed to encode information "bidirectionally"(just like a Bi-LSTM) boosting its performance in sentence-level tasks.  
+
+### General Language Representations
+Just like ELMo (Peters et al .,2018), BERT is also a General Language Representation model which means that given a sequence of input tokens the model will output a fixed-sized vector (usually Sequence Length * Hidden Dimension). In order for the model to acquire its ability to construct meaningful output representations, it undergoes a process called **Pre-Training**. This paper introduces two Pre-Training objectives, **Masked Langauge Modeling(MLM)** and **Next Sentence Prediction (NSP)**.
