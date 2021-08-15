@@ -7,7 +7,7 @@ description: "Here I go!"
 ---
 
 The first paper I would be reviewing on my blog is an NLP classic, *"BERT: Pre-Training of Bidirectional Transformers for Language Understanding"*.
- It has been a while since I have first encountered this paper, but BERT is still the outset of most State-of-the-Arts(SOTA) NLP models, therefore going over this architecture will make future paper reviews way more tractable. 
+ It has been a while since I have first encountered this paper, but BERT is still the outset of most State-of-the-Arts(SOTA) NLP models, so in my opinion going over this architecture will make future paper reviews way more tractable. 
 
 * hello
 {:toc}
