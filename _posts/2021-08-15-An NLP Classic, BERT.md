@@ -21,4 +21,4 @@ Just like ELMo (Peters et al .,2018), BERT is also a General Language Representa
 
 For MLM, the data generator intentionally corrupts the input by replacing 15% of the tokens at random. The final output vectors corresponding to the corrupted tokens are fed into a softmax function for the entire vocabulary, and the vocab with the highest prob is predicted as the original token (the one before corruption). This way of training, however, has been pointed out to cause a problem called, **Pretrain-Finetune Discrepancy**. Pretrain-Finetune Discrepancy refers to a mismatch caused by MLM, as no tokens are masked during downstream tasks. (Naively, the BERT model might train itself to classify only those with [MASK] tokens as a valid sentence.) To mitigate such problems, instead of replacing every 15% of the randomly selected tokens with masks, the paper adopts a mixed masking strategy.
 
-image: assets/img/An NLP Classic, BERT/masking.png
+<image src="https://github.com/guijinSON/guijinSON.github.io/blob/6b0da5d5f5f4394c2f1b3d646c0c5e949fd3587e/assets/img/An%20NLP%20Classic,%20BERT/masking.png">
