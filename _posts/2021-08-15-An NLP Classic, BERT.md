@@ -28,9 +28,11 @@ As shown above, the paper examines different masking strategies and consequently
 Since MLM fails to capture the relationship between sentences, NSP is introduced. For the NSP task, the data generator constructs the input sentence by merging two different sentences *A* and *B*. 50% of the time *B* is the actual next sentence for *A*, while for the other half they are two irrelevant sentences. By predicting whether the two sentences come from the same context, BERT learns to understand sentence-level information.  
 
 ### Model Architecture 
-BERT adopts an architecture very reminiscent of that of a Transformer (Vaswani et al .,2017). However, being an encoder-only model instead of inheriting the entire structure it only uses the encoder part. A BERT_base model would stack 12 encoder blocks, where each is compromised of **causal self-head attentions** and a **feed-forward network**.
+BERT adopts an architecture very reminiscent of that of a Transformer (Vaswani et al .,2017). However, being an encoder-only model instead of inheriting the entire coupled structure it only makes use of the encoder part. A BERT_Base model would stack 12 blocks of encoders, where each is compromised of **causal self-head attentions** and a **feed-forward network**.
 
-<image src="https://raw.githubusercontent.com/guijinSON/guijinSON.github.io/master/assets/img/An%20NLP%20Classic%2C%20BERT/architecture.png" width=200px/>
+<image src="https://raw.githubusercontent.com/guijinSON/guijinSON.github.io/master/assets/img/An%20NLP%20Classic%2C%20BERT/architecture.png" width=200px/>. 
+
+In the given structure, the causal self-head attention aims to capture the relationship between tokens, especially contextual information. On the other hand, the feed-forward network serves as a fancy concatenation layer that learns non-linear hierarchical features. One aspect that differentiates BERT from the Transformer is its input embeddings, unlike its predecessor, BERT sums token, segmentation, and positional embeddings for its input. These are intended to provide additional information to help the model encode both token and sentence level information.
 
 ### References
 
