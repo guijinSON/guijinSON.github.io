@@ -23,4 +23,6 @@ For MLM, the data generator intentionally corrupts the input by replacing 15% of
 
 <image src="https://raw.githubusercontent.com/guijinSON/guijinSON.github.io/8bfc87a2e5086ee8062b2b1c1e1f085e94574c5f/assets/img/An%20NLP%20Classic%2C%20BERT/masking.png" width=500px />   
   
-As shown above, the paper examines different masking strategies and consequently, they do not replace every selected token with a mask. Instead, only 80% of the selected tokens are masked, the other 10% is replaced with a random vocabulary, and the left 10% remains unchanged. 
+As shown above, the paper examines different masking strategies and consequently, they do not replace every selected token with a mask. Instead, only 80% of the selected tokens are masked, the other 10% is replaced with a random vocabulary, and the left 10% remains unchanged.  
+
+Since MLM fails to capture the relationship between sentences, NSP is introduced. For the NSP task, the data generator constructs the input sentence by merging two different sentences A and B. 50% of the time B is the actual next sentence for A, while for the other half they are two irrelevant sentences. By predicting whether the two sentences come from the same context, BERT learns to understand sentence-level information.
