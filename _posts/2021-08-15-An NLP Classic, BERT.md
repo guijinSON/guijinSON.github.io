@@ -25,7 +25,7 @@ For MLM, the data generator intentionally corrupts the input by replacing 15% of
   
 As shown above, the paper examines different masking strategies and consequently, they do not replace every selected token with a mask. Instead, only 80% of the selected tokens are masked, the other 10% is replaced with a random vocabulary, and the left 10% remains unchanged.  
 
-Since MLM fails to capture the relationship between sentences, NSP is introduced. For the NSP task, the data generator constructs the input sentence by merging two different sentences *A* and *B*. 50% of the time *B* is the actual next sentence for *A*, while for the other half they are two irrelevant sentences. By predicting whether the two sentences come from the same context, BERT learns to understand sentence-level information.  
+Since MLM fails to capture the relationship between sentences, NSP is introduced. For the NSP task, the data generator constructs the input sentence by merging two different sentences *A* and *B*. 50% of the time *B* is the actual next sentence for *A*, while for the other half they are two irrelevant sentences. By predicting whether the two sentences come from the same context, BERT is expected to learn understand sentence-level information.  
 
 ### Model Architecture 
 BERT adopts an architecture very reminiscent of that of a Transformer (Vaswani et al .,2017). However, being an encoder-only model instead of inheriting the entire coupled structure it only makes use of the encoder part. A BERT_Base model would stack 12 blocks of encoders, where each is compromised of **causal self-head attentions** and a **feed-forward network**.
@@ -36,7 +36,11 @@ In the given structure, the causal self-head attention aims to capture the relat
 
 <image src="https://raw.githubusercontent.com/guijinSON/guijinSON.github.io/master/assets/img/An%20NLP%20Classic%2C%20BERT/embedddings.png" width=600px /> 
 
-### Performance & Implications 
+### Performance & Implications  
+As mentioned above BERT achieves significant results in multiple leaderboards only through minimal modifications, referred to as **Fine-Tuning**. In the Fine-Tuning process a classification head (mostly a shallow neural network) is added to the final part of the model, and by training both pre-trained parameters, and the newly initialized classification head, BERT fits itself to the given downstream task. This way of two-step training has allowed the creation of a general language model applicable for diverse tasks, and as a result, BERT performs greatly in numerous tasks as shown below.  
+
+<image src="https://raw.githubusercontent.com/guijinSON/guijinSON.github.io/master/assets/img/An%20NLP%20Classic%2C%20BERT/benchmark.png" width=600px />  
+
 
 
 ### References
