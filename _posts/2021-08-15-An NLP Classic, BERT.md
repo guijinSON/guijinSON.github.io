@@ -1,7 +1,7 @@
 ---
 title: An NLP Classic, BERT.
 layout: post
-categories: [Typography, Markdown, Tips]
+categories: [NLP, BERT,Attention]
 image: assets/img/An NLP Classic, BERT/bert.png
 description: "Here I go!"
 ---
