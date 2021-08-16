@@ -3,7 +3,7 @@ title: An NLP Classic, BERT.
 layout: post
 categories: [NLP, BERT,Attention]
 image: assets/img/An NLP Classic, BERT/bert.png
-description: "Here I go!"
+description: "An NLP Classic, BERT."
 ---
 
 The first paper I would be reviewing on my blog is an NLP classic, *"BERT: Pre-Training of Bidirectional Transformers for Language Understanding"*.
