@@ -39,7 +39,9 @@ In the given structure, the causal self-head attention aims to capture the relat
 ### Performance & Implications  
 As mentioned above BERT achieves significant results in multiple leaderboards only through minimal modifications, referred to as **Fine-Tuning**. In the Fine-Tuning process a classification head (mostly a shallow neural network) is added to the final part of the model, and by training both pre-trained parameters, and the newly initialized classification head, BERT fits itself to the given downstream task. This way of two-step training has allowed the creation of a general language model applicable for diverse tasks, and as a result, BERT performs greatly in numerous tasks as shown below.  
 
-<image src="https://raw.githubusercontent.com/guijinSON/guijinSON.github.io/master/assets/img/An%20NLP%20Classic%2C%20BERT/benchmark.png" width=600px />  
+<image src="https://raw.githubusercontent.com/guijinSON/guijinSON.github.io/master/assets/img/An%20NLP%20Classic%2C%20BERT/benchmark.png" width=600px />   
+
+Obviously, this piece of work from 2018 is not even close to the state of arts at the moment. BERT, however, successfully proves the significance of an encoder structure in language understanding tasks, and moreover, it shows massive scalability confirming that a bigger model would result in even more promising results. The paper today, BERT, is a great one to start with, and I will soon return with researches that add on to BERT. Meet me in the next post:) 
 
 
 
