@@ -41,8 +41,9 @@ As mentioned above BERT achieves significant results in multiple leaderboards on
 
 <image src="https://raw.githubusercontent.com/guijinSON/guijinSON.github.io/master/assets/img/An%20NLP%20Classic%2C%20BERT/benchmark.png" width=600px />   
 
-Obviously, this piece of work from 2018 is not even close to the state of arts at the moment. BERT, however, successfully proves the significance of an encoder structure in language understanding tasks, and moreover, it shows massive scalability confirming that a bigger model would result in even more promising results. The paper today, BERT, is a great one to start with, and I will soon return with researches that add on.  
+Obviously, this piece of work from 2018 is not even close to the state of arts at the moment. BERT, however, successfully proves the significance of an encoder structure in language understanding tasks, and moreover, it shows massive scalability confirming that a bigger model would result in even more promising results.  
 
+The paper today, BERT, is a great one to start with, and I will soon return with researches that add on.  
 I hope you enjoyed reading. Meet me in the next post:) 
 
 
