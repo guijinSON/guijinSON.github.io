@@ -2,6 +2,7 @@
 title: An Intrinsic Motivation for Reinforcement Learning.
 layout: post
 categories: [RL,Sparse Reward,Long Term Dependency]
+image: assets/img/An Intrinsic Motivation for Reinforcement Learning/cover.png
 description: "An Intrinsic Motivation for Reinforcement Learning."
 ---
 
