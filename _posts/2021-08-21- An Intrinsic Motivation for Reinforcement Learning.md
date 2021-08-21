@@ -13,6 +13,8 @@ For the moment, I am working at a firm called QRAFT, and over here everyone is a
 
 ### Brief Introduction 
 
+Reinforcement Learning usually refers to a structure comprised of an agent and an environment. The agent learns to make actions adequate to its given state through experience and exploration and converges towards a structure that maximizes its cumulative reward. Accordingly, rewards are a very important indicator that guides the agent, however, in most real-life problems extrinsic rewards are extremely sparse (or extremely far away) making it difficult to construct a shaped reward function. This paper proposes a concept called curiosity, which generates continuous intrinsic rewards to ameliorate such issues and succeeds to outperform past papers in reward-sparse environments.  
+
 ### Reference
 
 \[1] [Pathak, Deepak, et al. "Curiosity-driven exploration by self-supervised prediction." International conference on machine learning. PMLR, 2017.](https://arxiv.org/abs/1705.05363) 
