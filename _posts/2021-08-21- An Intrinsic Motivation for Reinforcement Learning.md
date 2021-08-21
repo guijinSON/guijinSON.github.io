@@ -21,7 +21,7 @@ Unlike most Online-RL, this paper adopts an additional structure named **_Intrin
 
 <image src="https://raw.githubusercontent.com/guijinSON/guijinSON.github.io/master/assets/img/An%20Intrinsic%20Motivation%20for%20Reinforcement%20Learning/icm.png" width=500px />  
 
-When given a state \\(S_t \\) and \\(S_{t+1} \\) the ICM projects them \\(\phi{S_t} \\) and  \\(\phi{S_{t+1}} \\).
+When given a state \\(S_t \\) and \\(S_{t+1} \\) the ICM projects them \\(\phi({S_t}) \\) and  \\(\phi({S_{t+1}}) \\).
 
 ### Reference
 
