@@ -17,7 +17,7 @@ Reinforcement Learning usually refers to a structure comprised of an agent and a
 
 ### Intrinsic Curiosity Model 
 
-Unlike most Online-RL, this paper adopts an additional structure named **_Intrinsic Curiosity Model(ICM)**_ that generates intrinsic rewards for the agent. Along with the concept of curiosity, the paper also argues that it is inefficient for the model to make predictions in the raw sensory space (e.g. pixels), and suggests that the environment should be projected into a feature space for a better prediction. Therefore, the ICM is made up of two subsystems; the **inverse dynamics model** and the **forward model**.
+Unlike most Online-RL, this paper adopts an additional structure named **_Intrinsic Curiosity Model(ICM)_** that generates intrinsic rewards for the agent. Along with the concept of curiosity, the paper also argues that it is inefficient for the model to make predictions in the raw sensory space (e.g. pixels), and suggests that the environment should be projected into a feature space for a better prediction. Therefore, the ICM is made up of two subsystems; the **inverse dynamics model** and the **forward model**.
 
 
 ### Reference
