@@ -19,7 +19,9 @@ Reinforcement Learning usually refers to a structure comprised of an agent and a
 
 Unlike most Online-RL, this paper adopts an additional structure named **_Intrinsic Curiosity Model(ICM)_** that generates intrinsic rewards for the agent. Along with the concept of curiosity, the paper also argues that it is inefficient for the model to make predictions in the raw sensory space (e.g. pixels), and suggests that the environment should be projected into a feature space for a better prediction. Therefore, the ICM is made up of two subsystems; the **inverse dynamics model** and the **forward model**.
 
-<image src="https://raw.githubusercontent.com/guijinSON/guijinSON.github.io/master/assets/img/An%20Intrinsic%20Motivation%20for%20Reinforcement%20Learning/icm.png" width=500px /> 
+<image src="https://raw.githubusercontent.com/guijinSON/guijinSON.github.io/master/assets/img/An%20Intrinsic%20Motivation%20for%20Reinforcement%20Learning/icm.png" width=500px />  
+
+When given a state \\(S_t \\) and \\(S_{t+1} \\) the ICM projects them \\(\phi{S_t} \\) and  \\(\phi{S_{t+1}} \\).
 
 ### Reference
 
