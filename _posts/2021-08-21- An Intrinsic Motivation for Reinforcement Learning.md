@@ -21,9 +21,9 @@ Unlike most Online-RL, this paper adopts an additional structure named **_Intrin
 
 <image src="https://raw.githubusercontent.com/guijinSON/guijinSON.github.io/master/assets/img/An%20Intrinsic%20Motivation%20for%20Reinforcement%20Learning/icm.png" width=500px />  
 
-When the ICM is given states \\(S_t \\) and \\(S_{t+1} \\) as input it encodes them to vectors on the feature space; \\(\phi({S_t}) \\) and \\(\phi({S_{t+1}}) \\). Once the projection is done, the inverse dynamics model use these values to predict \\(\hat{a_t} \\), the action at sequence \\(t \\). By measuring the discrepancy between actual and predicted actions the neural network learns to better predict future actions.
+When the ICM is given states \\(S_t \\) and \\(S_{t+1} \\) as input it encodes them to vectors on the feature space; \\(\phi({S_t}) \\) and \\(\phi({S_{t+1}}) \\). Once the projection is done, the inverse dynamics model use these values to predict \\(\hat{a_t} \\), the action at sequence \\(t \\). By measuring the discrepancy between actual and predicted actions the neural network learns to predict. better future actions.
 
-In the meantime, the forward model receives \\(a_t \\) and \\(\phi({S_t}) \\) to predict \\(\hat{\phi(S_{t+1})} \\). This prediction error represents the agent's knowledge about the environment it lies in, and function as intrinsic reward, signaling the agent its lack of understanding and need for additional training.
+In the meantime, the forward model receives \\(a_t \\) and \\(\phi({S_t}) \\) to predict \\(\hat\phi(S_{t+1}) \\). This prediction error represents the agent's knowledge about the environment it lies in, and function as intrinsic reward, signaling the agent its lack of understanding and need for additional training.
 
 ### Prediction Error as Curiosity  
 
@@ -39,21 +39,22 @@ Since an agent does not have an incentive to learn about insignificant variation
 
 The paper tests the model in diverse settings proving its \[1] Strength in sparse-reward environments, \[2] Robustness towards noisy input and [3] the ability to generalize to novel scenarios. 
 
-First up, the paper compares **ICM+A3C**, **ICM(pixel) + A3C** and a **vanilla A3C** model in dense, sparse and very sparse reward settings. The ICM(pixel) resembles a normal ICM except the fact that it uses features from the raw sensory space instead of projecting it to a separate latent area. As the figure below indicates, the ICM option greatly vanquishes the other as the reward gets sparser, implying that its way of signaling the model through prediction error supervises the agent in a correct direction.
+First up, the paper compares **ICM+A3C**, **ICM(pixel) + A3C** and a **vanilla A3C** model in dense, sparse and very sparse reward settings. The ICM(pixel) resembles a normal ICM except the fact that it uses features from the raw sensory space instead of projecting it to a separate latent area. As the figure below indicates, the ICM option greatly vanquishes the other as the reward gets sparser, implying that its way of signaling the model through prediction error supervises the agent in a correct direction.   
 
 <image src = "https://raw.githubusercontent.com/guijinSON/guijinSON.github.io/master/assets/img/An%20Intrinsic%20Motivation%20for%20Reinforcement%20Learning/reward.png" width=850px />  
 
-Second, the authors test the model in a **Viz-Doom 3-D navigation** task but only after augmenting it with white noise that makes up 40% of the image. Even in this setting the ICM succeeds to head towards the reward affirming strong resilience against noisy environments.  
+Second, the authors test the model in a **Viz-Doom 3-D navigation** task but only after augmenting it with white noise that makes up 40% of the image. Even in this setting the ICM succeeds to head towards the reward affirming strong resilience against noisy environments.     
 
 <image src="https://raw.githubusercontent.com/guijinSON/guijinSON.github.io/master/assets/img/An%20Intrinsic%20Motivation%20for%20Reinforcement%20Learning/noisy.png" width=500px /> 
 
-Finally, by deploying the ICM+A3C model in a novel environment the paper confirms its ability to generalize towards unseen scenarios. In the given environment, both finetuned and non-finetuned ICM model excels in learning a generalizable exploration policy contrary to ICM(pixel) that totally fails to do so.
+Finally, by deploying the ICM+A3C model in a novel environment the paper confirms its ability to generalize towards unseen scenarios. In the given environment, both finetuned and non-finetuned ICM model excels in learning a generalizable exploration policy, contrary to ICM(pixel) that totally fails to do so.  
 
 <image src="https://raw.githubusercontent.com/guijinSON/guijinSON.github.io/master/assets/img/An%20Intrinsic%20Motivation%20for%20Reinforcement%20Learning/novel.png" width=500px />  
 
 ### Implications
 
-Though it is not a totally new concept to introduce an alternative reward that the agent can utilize, this paper is significant in that the way it shapes its reward is not domain-specific. Compared to recent NLP researches that aim to solve its Long-Term Dependency problem through augmenting memorization abilities(which again encounters computing issues), this Curiosity approach seems to be way more generalizable. I appreciate this random opportunity given by my coworkers and hope you also enjoyed reading my work. Meet me in the next post:)
+Though it is not a totally new concept to introduce an alternative reward that the agent can utilize, this paper is significant in that the way it shapes its reward is not domain-specific. Compared to recent NLP researches that aim to solve its Long-Term Dependency problem through augmenting memorization abilities (which again encounters computing issues), this Curiosity approach seems to be way more generalizable.  
+I really appreciated this random opportunity given by my coworkers that allowed me to explore subjects I have never did before and hope you also enjoyed reading my work. Thank you and meet me in the next post:)
 
 
 ### Reference
