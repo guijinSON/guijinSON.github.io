@@ -43,11 +43,19 @@ First up, the paper compares **ICM+A3C**, **ICM(pixel) + A3C** and a **vanilla A
 
 <image src = "https://raw.githubusercontent.com/guijinSON/guijinSON.github.io/master/assets/img/An%20Intrinsic%20Motivation%20for%20Reinforcement%20Learning/reward.png" width=850px />  
 
-Second, the authors test the model in a Viz-Doom 3-D navigation task but only after augmenting it with white noise that makes up 40% of the image. Even in this setting the ICM succeeds to head towards the reward affirming strong resilience against noisy environments.  
+Second, the authors test the model in a **Viz-Doom 3-D navigation** task but only after augmenting it with white noise that makes up 40% of the image. Even in this setting the ICM succeeds to head towards the reward affirming strong resilience against noisy environments.  
 
-<image src="https://raw.githubusercontent.com/guijinSON/guijinSON.github.io/master/assets/img/An%20Intrinsic%20Motivation%20for%20Reinforcement%20Learning/noisy.png" width=500px />
+<image src="https://raw.githubusercontent.com/guijinSON/guijinSON.github.io/master/assets/img/An%20Intrinsic%20Motivation%20for%20Reinforcement%20Learning/noisy.png" width=500px /> 
+
+Finally, by deploying the ICM+A3C model in a novel environment the paper confirms its ability to generalize towards unseen scenarios. In the given environment, both finetuned and non-finetuned ICM model excels in learning a generalizable exploration policy contrary to ICM(pixel) that totally fails to do so.
+
+<image src="https://raw.githubusercontent.com/guijinSON/guijinSON.github.io/master/assets/img/An%20Intrinsic%20Motivation%20for%20Reinforcement%20Learning/novel.png" width=500px />  
+
+### Implications
+
+Though it is not a totally new concept to introduce an alternative reward that the agent can utilize, this paper is significant in that the way it shapes its reward is not domain-specific. Compared to recent NLP researches that aim to solve its Long-Term Dependency problem through augmenting memorization abilities(which again encounters computing issues), this Curiosity approach seems to be way more generalizable. I appreciate this random opportunity given by my coworkers and hope you also enjoyed reading my work. Meet me in the next post:)
+
 
 ### Reference
 
 \[1] [Pathak, Deepak, et al. "Curiosity-driven exploration by self-supervised prediction." International conference on machine learning. PMLR, 2017.](https://arxiv.org/abs/1705.05363)  
-\[2] 
