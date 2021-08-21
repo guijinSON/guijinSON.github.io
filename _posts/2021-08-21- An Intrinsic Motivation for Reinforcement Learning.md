@@ -22,5 +22,5 @@ Unlike most Online-RL, this paper adopts an additional structure named **_Intrin
 
 ### Reference
 
-\[1] [Pathak, Deepak, et al. "Curiosity-driven exploration by self-supervised prediction." International conference on machine learning. PMLR, 2017.](https://arxiv.org/abs/1705.05363) 
+\[1] [Pathak, Deepak, et al. "Curiosity-driven exploration by self-supervised prediction." International conference on machine learning. PMLR, 2017.](https://arxiv.org/abs/1705.05363)  
 \[2] 
