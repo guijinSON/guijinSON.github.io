@@ -33,7 +33,19 @@ As mentioned above, previous RL agents barely showed meaningful performance in s
 2. Things that the agent cannot control but that can affect the agent   
 3. Things out of agent's control and not affecting the agent 
 
-Since an agent does not have an incentive to learn about insignificant variations, the paper assumes that the projection layer will eventually learn to only encode information from cases \[1] and \[2]. Resultingly, the model acquires an encoder robust towards distractor objects and other nuisance sources of alterations allowing the model to easily generalize to noisy or unseen scenarios. 
+Since an agent does not have an incentive to learn about insignificant variations, the paper assumes that the projection layer will eventually learn to only encode information from cases \[1] and \[2]. Resultingly, the model acquires an encoder robust towards distractor objects and other nuisance sources of alterations allowing the model to easily generalize to noisy or unseen scenarios. In a nutshell, the forward model from the ICM not only provides continuous rewards that fuel the model but it also enhances the robustness of the agent as a whole. 
+
+### Performance
+
+The paper tests the model in diverse settings proving its \[1] Strength in sparse-reward environments, \[2] Robustness towards noisy input and [3] the ability to generalize to novel scenarios. 
+
+First up, the paper compares **ICM+A3C**, **ICM(pixel) + A3C** and a **vanilla A3C** model in dense, sparse and very sparse reward settings. The ICM(pixel) resembles a normal ICM except the fact that it uses features from the raw sensory space instead of projecting it to a separate latent area. As the figure below indicates, the ICM option greatly vanquishes the other as the reward gets sparser, implying that its way of signaling the model through prediction error supervises the agent in a correct direction.
+
+<image src = "https://raw.githubusercontent.com/guijinSON/guijinSON.github.io/master/assets/img/An%20Intrinsic%20Motivation%20for%20Reinforcement%20Learning/reward.png" width=850px />  
+
+Second, the authors test the model in a Viz-Doom 3-D navigation task but only after augmenting it with white noise that makes up 40% of the image. Even in this setting the ICM succeeds to head towards the reward affirming strong resilience against noisy environments.  
+
+<image src="https://raw.githubusercontent.com/guijinSON/guijinSON.github.io/master/assets/img/An%20Intrinsic%20Motivation%20for%20Reinforcement%20Learning/noisy.png" width=500px />
 
 ### Reference
 
