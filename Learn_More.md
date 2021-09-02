@@ -11,50 +11,64 @@ Please, refer to the document below for further information.
 <br/><br/>
 
 <hr/>
-<div align="center"> <h2> Research Interests </h2></div> 
-<br/>
-
-- Natural Language Processing : particularly more interested in developing a novel Language Model architecture.  
-- Distributed Training (Ray, Hovorod) 
-- Multi-Model AI (NLP-VISION, ex. CLIP, DALL-E)    
-<br/><br/>
+<div align="center"> <h2> Research Interests </h2></div><br/>
+<ul>
+<li>Natural Language Processing : particularly more interested in developing a novel Language Model architecture.  </li>
+<li>Distributed Training (Ray, Hovorod) </li>
+<li>Multi-Model AI (NLP-VISION, ex. CLIP, DALL-E) </li>   
+</ul><br/>
 
 <hr/>
 <div align="center"> <h2> Education </h2></div>
 <br/>
-
-- Whimoon High School (Seoul,Korea)
-  - Liberal Arts Track
-
+<ul>
+<li>Whimoon High School (Seoul,Korea)</li>
+<ul>
+<li>Liberal Arts Track</li>
+</ul>
+</ul>
 <br/>
 
-- Yonsei University (Seoul,Korea)
-  - Intended Coursework | Econometrics, Quantitative Risk Management
-  - GPA | 3.81 / 4.5
+<ul><li>Yonsei University (Seoul,Korea)</li>
+<ul>
+<li>Intended Coursework | Econometrics, Quantitative Risk Management </li>
+<li>GPA | 3.81 / 4.5 </li>
+</ul>
+</ul>
  
-<br/><br/>
+<br/>
 
 <hr/>
 <div align="center"> <h2> Career </h2></div> 
 
 <br/>
-- Codeing (Student Startup) | AI Researcher 
-  - 2020.10 ~ 2021.04
-  - Built a KNN algorithm based Recommendation System using Scikit-Learn & TensorFlow 2.0
-  - Adopted multilingual word embeddings(MUSE) to vectorize course explanations and comments
+<ul>
+<li> Codeing (Student Startup) | AI Researcher </li>
+<ul>
+<li> 2020.10 ~ 2021.04</li>
+<li> Built a KNN algorithm based Recommendation System using Scikit-Learn & TensorFlow 2.0</li>
+<li>Adopted multilingual word embeddings(MUSE) to vectorize course explanations and comments</li>
+</ul>
+  </ul>
+  
 <br/>
-- Qraft Technologies | Financial NLP Research Assistant
-  - 2021.06 ~ 2021.09 
-  - Reproduced [Decision Transformer](https://arxiv.org/pdf/2106.01345.pdf)
-  - Developed Pretrained Language Model(PLM) based Zero-Shot Business section classifier
-<br/><br/>
+<ul>
+<li> Qraft Technologies | Financial NLP Research Assistant</li>
+<ul>
+<li> 2021.06 ~ 2021.09 </li>
+<li>Reproduced [Decision Transformer](https://arxiv.org/pdf/2106.01345.pdf)</li>
+<li> Developed Pretrained Language Model(PLM) based Zero-Shot Business section classifier</li>
+  </ul>
+  </ul>
+<br/>
 
 <hr/>
 <div align="center"> <h2> Honors & Awards </h2></div> 
 
-
-- Yangjae AI-HUB AI Idea Challenge | 2nd Place 
-- Flax Huggingace Community Week | Top - 15
+<ul>
+<li> <strong>2nd Place</strong> in Yangjae AI-HUB AI Idea Challenge </li>
+<li> <strong>Top 15</strong> in Flax Huggingace Community Week  </li>
+<ul>
 
 
 
