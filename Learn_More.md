@@ -43,7 +43,7 @@ Please, refer to the document below for further information.
 <hr/>
 <div align="center"> <h2> Projects </h2></div> 
 
- <li> <strong>ColorBERT </strong></li>
+ <li> <h3>ColorBERT </h3</li>
  <ul> <li> Abstract <br/>
   ColorBERT is a project that questions the color-sensitivity of Pretrained Language Models (PLM). Our research team discovers that PLM lacks commonsense regarding color, and therefore conducted additional sensory fine-tuning procedures to boost its understanding. We construct a multimodal pipeline containing ColorBERT and EfficientNet to benchmark its performance on Visual Question Answering tasks.</li> <br/>
   <li> Roles </li>
@@ -90,7 +90,7 @@ Founded a free on campus Data Science progam educating students Python and simpl
    Link to <a href="https://github.com/guijinSON/koclip.git"> Repository </a>
  </ul>
 </ul>
-</ul>
+
 
 
 
