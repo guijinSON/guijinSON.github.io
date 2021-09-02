@@ -9,41 +9,52 @@ I've studied Artificial Intelligence for about a year and my prime interests are
 
 Please, refer to the document below for further information.   
 <br/><br/>
+
 <hr/>
 <div align="center"> <h2> Research Interests </h2></div> 
+<br/>
+
 - Natural Language Processing : particularly more interested in developing a novel Language Model architecture.  
 - Distributed Training (Ray, Hovorod) 
 - Multi-Model AI (NLP-VISION, ex. CLIP, DALL-E)    
-<br/><br/><br/>
+<br/><br/>
+
 <hr/>
 <div align="center"> <h2> Education </h2></div>
-- Yonsei University (Seoul,Korea)
-  - Intended Coursework | Econometrics, Quantitative Risk Management
-  - GPA | 3.81 / 4.5
-
 <br/>
 
 - Whimoon High School (Seoul,Korea)
   - Liberal Arts Track
 
+<br/>
+
+- Yonsei University (Seoul,Korea)
+  - Intended Coursework | Econometrics, Quantitative Risk Management
+  - GPA | 3.81 / 4.5
+ 
 <br/><br/>
-<div align="center"> <h2> Career </h2></div> 
+
 <hr/>
-#### Codeing (Student Startup) | AI Researcher 
+<div align="center"> <h2> Career </h2></div> 
+
+<br/>
+- Codeing (Student Startup) | AI Researcher 
   - 2020.10 ~ 2021.04
   - Built a KNN algorithm based Recommendation System using Scikit-Learn & TensorFlow 2.0
   - Adopted multilingual word embeddings(MUSE) to vectorize course explanations and comments
 <br/>
-#### Qraft Technologies | Financial NLP Research Assistant
+- Qraft Technologies | Financial NLP Research Assistant
   - 2021.06 ~ 2021.09 
   - Reproduced [Decision Transformer](https://arxiv.org/pdf/2106.01345.pdf)
   - Developed Pretrained Language Model(PLM) based Zero-Shot Business section classifier
 <br/><br/>
-<div align="center"> <h2> Honors & Awards </h2></div> 
-<hr/>
 
-### Yangjae AI-HUB AI Idea Challenge | 2nd Place 
-### Flax Huggingace Community Week | Top - 15
+<hr/>
+<div align="center"> <h2> Honors & Awards </h2></div> 
+
+
+- Yangjae AI-HUB AI Idea Challenge | 2nd Place 
+- Flax Huggingace Community Week | Top - 15
 
 
 
