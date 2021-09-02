@@ -1,32 +1,31 @@
 ---
 layout: default
-title: Resume
+title: Learn More
 ---
 
 <div align="center"> <h2> About </h2></div> 
-<hr/>
 Hi, I am an undergraduate student studying in Yonsei University.   
 I've studied Artificial Intelligence for about a year and my prime interests are in the NLP Domain. For the moment, I am trying to expand my expertise to a wide variety of stuff like GNN, Vision, RL, or Distributed Training Strategies.  
 
 Please, refer to the document below for further information.   
 <br/><br/>
-<div align="center"> <h2> Research Interests </h2></div> 
 <hr/>
+<div align="center"> <h2> Research Interests </h2></div> 
 - Natural Language Processing : particularly more interested in developing a novel Language Model architecture.  
 - Distributed Training (Ray, Hovorod) 
 - Multi-Model AI (NLP-VISION, ex. CLIP, DALL-E)    
 <br/><br/><br/>
-<div align="center"> <h2> Education </h2></div> 
 <hr/>
-
-#### Yonsei University (Seoul,Korea)
-
-- Intended Coursework | Econometrics, Quantitative Risk Management
-- GPA | 3.81 / 4.5
+<div align="center"> <h2> Education </h2></div>
+- Yonsei University (Seoul,Korea)
+  - Intended Coursework | Econometrics, Quantitative Risk Management
+  - GPA | 3.81 / 4.5
 
 <br/>
-#### Whimoon High School (Seoul,Korea)
-- Liberal Arts Track
+
+- Whimoon High School (Seoul,Korea)
+  - Liberal Arts Track
+
 <br/><br/>
 <div align="center"> <h2> Career </h2></div> 
 <hr/>
