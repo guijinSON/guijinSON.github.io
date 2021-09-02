@@ -3,7 +3,7 @@ layout: default
 title: Resume
 ---
 
-# [Resumé](https://yamt.netlify.app/)
+# Resumé
 
 Welcome to my very own blog :)  
 Below is my resumé, updated on July, 2021.
