@@ -3,25 +3,30 @@ layout: default
 title: Resume
 ---
 
-<div align="center"> <h2> About </h2></div>
+<div align="center"> <h2> About </h2></div> 
+<hr width=100% noshade />
 Hi, I am an undergraduate student studying in Yonsei University.   
 I've studied Artificial Intelligence for about a year and my prime interests are in the NLP Domain. For the moment, I am trying to expand my expertise to a wide variety of stuff like GNN, Vision, RL, or Distributed Training Strategies.  
 
 Please, refer to the document below for further information.   
 
-## <div align="center"> Research Interests
+<div align="center"> <h2> Research Interests </h2></div> 
+<hr width=100% noshade />
 - Natural Language Processing : particularly more interested in developing a novel Language Model architecture 
 - Distributed Training (Ray, Hovorod)
 - Multi-Model AI (NLP-VISION, ex. CLIP, DALL-E)
   
-## <div align="center"> Education
+<div align="center"> <h2> Education </h2></div> 
+<hr width=100% noshade />
+
 ### Yonsei University (Seoul,Korea)
   - Intended Coursework | Econometrics, Quantitative Risk Management
   - GPA | 3.81 / 4.5
 ### Whimoon High School (Seoul,Korea)
   - Liberal Arts Track
 
-## <div align="center"> Career 
+<div align="center"> <h2> Career </h2></div> 
+<hr width=100% noshade />
 ### Codeing (Student Startup) | AI Researcher 
   - 2020.10 ~ 2021.04
   - Built a KNN algorithm based Recommendation System using Scikit-Learn & TensorFlow 2.0
@@ -32,7 +37,8 @@ Please, refer to the document below for further information.
   - Reproduced [Decision Transformer](https://arxiv.org/pdf/2106.01345.pdf)
   - Developed Pretrained Language Model(PLM) based Zero-Shot Business section classifier
   
-## <div align="center"> Honors & Awards 
+<div align="center"> <h2> Honors & Awards </h2></div> 
+<hr width=100% noshade />
 
 
 
