@@ -52,7 +52,7 @@ Please, refer to the document below for further information.
 <li> Qraft Technologies | Financial NLP Research Assistant</li>
 <ul>
 <li> 2021.06 ~ 2021.09 </li>
-<li>Reproduced [Decision Transformer](https://arxiv.org/pdf/2106.01345.pdf)</li>
+<li>Reproduced  <a href="https://arxiv.org/pdf/2106.01345.pdf"> Decision Transformer</a></li>
 <li> Developed Pretrained Language Model(PLM) based Zero-Shot Business section classifier</li>
   </ul>
   </ul>
@@ -62,9 +62,14 @@ Please, refer to the document below for further information.
 <div align="center"> <h2> Honors & Awards </h2></div> 
 
 <ul>
-<li> <strong>2nd Place</strong> in Yangjae AI-HUB AI Idea Challenge </li>
-<li> <strong>Top 15</strong> in Flax Huggingace Community Week  </li>
-<ul>
+<li> <strong>2nd Place</strong> in Yangjae AI-HUB AI Idea Challenge, 2020 </li>
+<li> <strong>Major Representative</strong> at Yonsei Underwood International College Economics, 2020 </li>
+<li> <strong>Top 15</strong> in Flax Huggingface Community Week, 2021 </li>
+ <ul>
+  <li>
+   Link to <a href="https://github.com/guijinSON/koclip.git"> Repository </a>
+ </ul>
+</ul>
 
 
 
