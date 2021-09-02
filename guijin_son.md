@@ -3,11 +3,14 @@ layout: default
 title: Resume
 ---
 
-# Resumé
+# GUIJIN SON
 
-Welcome to my very own blog :)  
-Below is my resumé, updated on July, 2021.
-<iframe src="https://drive.google.com/file/d/13wqjyo3YUhHi6fp_--kkbciRCbPLyQBU/preview" width="640" height="800"></iframe>
+Hi, I am an undergraduate student studying in Yonsei University.   
+I've studied Artificial Intelligence for about a year and my prime interests are in the NLP Domain.   
+For the moment, I am trying to expand my expertise to a wide variety of stuff like GNN, Vision, RL, or Distributed Training Strategies.   
+Please, refer to the document below for further information.  
+
+
 
 
 
