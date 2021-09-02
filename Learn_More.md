@@ -98,7 +98,7 @@ Founded a free on campus Data Science progam educating students Python and simpl
 <li>Whimoon High School (Seoul,Korea)</li>
 <ul>
 <li>Liberal Arts Track</li>
-</ul>
+</ul><br/>
 <li>Yonsei University (Seoul,Korea)</li>
 <ul>
 <li>Intended Coursework | Econometrics, Quantitative Risk Management </li>
