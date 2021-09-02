@@ -42,7 +42,7 @@ Please, refer to the document below for further information.
 
 <hr/>
 <div align="center"> <h2> Projects </h2></div> 
-<ul>
+
  <li> <strong>ColorBERT </strong></li>
  <ul> <li> Abstract <br/>
   ColorBERT is a project that questions the color-sensitivity of Pretrained Language Models (PLM). Our research team discovers that PLM lacks commonsense regarding color, and therefore conducted additional sensory fine-tuning procedures to boost its understanding. We construct a multimodal pipeline containing ColorBERT and EfficientNet to benchmark its performance on Visual Question Answering tasks.</li> <br/>
@@ -68,12 +68,14 @@ Founded a free on campus Data Science progam educating students Python and simpl
   <li> Constructed Text2Image Demo for the project </li>
   <li> Contributed in managing the project, hosting interviews and project advertisements. </li>
   </ul>
-<li> Learn More at </li><ul>
+<li> Learn More at </li>
+   <ul>
  <li> <a href="https://github.com/guijinSON/koclip.git"> Repository </a></li>
  <li> <a href="https://jiho-ml.com/weekly-nlp-42/"> Interview </a></li>
  <li> <a href="https://huggingface.co/spaces/flax-community/koclip"> Demo </a></li>
- 
-   </ul></ul></ul>
+</ul>
+   </ul>
+
 
 
 <hr/>
