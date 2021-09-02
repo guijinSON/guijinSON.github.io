@@ -4,7 +4,7 @@ title: Resume
 ---
 
 <div align="center"> <h2> About </h2></div> 
-<hr width=100% noshade />
+<hr/>
 Hi, I am an undergraduate student studying in Yonsei University.   
 I've studied Artificial Intelligence for about a year and my prime interests are in the NLP Domain. For the moment, I am trying to expand my expertise to a wide variety of stuff like GNN, Vision, RL, or Distributed Training Strategies.  
 
@@ -17,7 +17,7 @@ Please, refer to the document below for further information.
 - Multi-Model AI (NLP-VISION, ex. CLIP, DALL-E)
   
 <div align="center"> <h2> Education </h2></div> 
-<hr width=100% noshade />
+<hr/>
 
 ### Yonsei University (Seoul,Korea)
   - Intended Coursework | Econometrics, Quantitative Risk Management
@@ -26,7 +26,7 @@ Please, refer to the document below for further information.
   - Liberal Arts Track
 
 <div align="center"> <h2> Career </h2></div> 
-<hr width=100% noshade />
+<hr/>
 ### Codeing (Student Startup) | AI Researcher 
   - 2020.10 ~ 2021.04
   - Built a KNN algorithm based Recommendation System using Scikit-Learn & TensorFlow 2.0
@@ -38,7 +38,7 @@ Please, refer to the document below for further information.
   - Developed Pretrained Language Model(PLM) based Zero-Shot Business section classifier
   
 <div align="center"> <h2> Honors & Awards </h2></div> 
-<hr width=100% noshade />
+<hr/>
 
 
 
