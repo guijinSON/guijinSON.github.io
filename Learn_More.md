@@ -73,7 +73,7 @@ Founded a free on campus Data Science progam educating students Python and simpl
  <li> <a href="https://jiho-ml.com/weekly-nlp-42/"> Interview </a></li>
  <li> <a href="https://huggingface.co/spaces/flax-community/koclip"> Demo </a></li>
  
-</ul></ul>
+</ul></ul></ul>
 
 
 <hr/>
