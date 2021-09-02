@@ -45,7 +45,7 @@ Please, refer to the document below for further information.
 <ul>
  <li> <strong>ColorBERT </strong></li>
  <ul> <li> Abstract <br/>
-  ColorBERT is a project that questions the color-sensitivity of Pretrained Language Models (PLM). Our research team discovers that PLM lacks commonsense regarding color, and therefore conducted additional sensory fine-tuning procedures to boost its understanding. We construct a multimodal pipeline containing ColorBERT and EfficientNet to benchmark its performance on Visual Question Answering tasks.</li>
+  ColorBERT is a project that questions the color-sensitivity of Pretrained Language Models (PLM). Our research team discovers that PLM lacks commonsense regarding color, and therefore conducted additional sensory fine-tuning procedures to boost its understanding. We construct a multimodal pipeline containing ColorBERT and EfficientNet to benchmark its performance on Visual Question Answering tasks.</li> <br/>
   <li> Roles </li>
   <ul>
    <li>Established an English Corpus dataset, compromised of 30K sentences, to fine-tune a DeBERTa model </li>
@@ -61,19 +61,19 @@ Founded a free on campus Data Science progam educating students Python and simpl
  
  <li> <strong> KoCLIP</strong> 
  <ul><li> Abstract <br/>
- KoCLIP, a Korean port for OpenAI's CLIP, is the first attempt ever to open-source a multi-modal A.I in Korean. Our team utilizes a transfer-learning like method, by fine-tuning pretrained text and image encoder models. Two versions of the model, Base and Large is provided through a repository in HuggingFace.</li>
+ KoCLIP, a Korean port for OpenAI's CLIP, is the first attempt ever to open-source a multi-modal A.I in Korean. Our team utilizes a transfer-learning like method, by fine-tuning pretrained text and image encoder models. Two versions of the model, Base and Large is provided through a repository in HuggingFace.</li> <br/>
  <li>Roles</li>
  <ul>
   <li> Took part in writing the training scripts for the model </li>
   <li> Constructed Text2Image Demo for the project </li>
   <li> Contributed in managing the project, hosting interviews and project advertisements. </li>
   </ul>
- <li> Learn More at </li><ul>
+<li> Learn More at </li><ul>
  <li> <a href="https://github.com/guijinSON/koclip.git"> Repository </a></li>
  <li> <a href="https://jiho-ml.com/weekly-nlp-42/"> Interview </a></li>
  <li> <a href="https://huggingface.co/spaces/flax-community/koclip"> Demo </a></li>
  
-</ul></ul></ul>
+   </ul></ul></ul>
 
 
 <hr/>
@@ -106,7 +106,7 @@ Founded a free on campus Data Science progam educating students Python and simpl
 </ul>
 </ul>
  
-<br/>
+
 
 
 
