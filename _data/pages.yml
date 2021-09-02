@@ -1,5 +1,5 @@
 pages:
-  - {name: 'About', url: 'guijin_son.html'}
+  - {name: 'Learn More', url: 'Learn_More.html'}
   - {name: 'Archive', url: 'archive.html'}
   - {name: 'Contact', url: 'contact.html'}
 
