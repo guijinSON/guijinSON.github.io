@@ -48,7 +48,7 @@ Please, refer to the document below for further information.
   ColorBERT is a project that questions the color-sensitivity of Pretrained Language Models (PLM). Our research team discovers that PLM lacks commonsense regarding color, and therefore conducted additional sensory fine-tuning procedures to boost its understanding. We construct a multimodal pipeline containing ColorBERT and EfficientNet to benchmark its performance on Visual Question Answering tasks.
   <li> Roles </li>
   <ul>
-   <li>Established an English Corpus dataset, compromised of 30K sentences, to fine-tune a DeBERTa model </li
+   <li>Established an English Corpus dataset, compromised of 30K sentences, to fine-tune a DeBERTa model </li>
    <li>Constructed a TensorFlow 2.0 pipeline to fine-tune the model in a Cloud TPU environment</li>
    <li>Benchmarked performance on a VQA task using Toronto COCO-QA Dataset</li>
   </ul>
