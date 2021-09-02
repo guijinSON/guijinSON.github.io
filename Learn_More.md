@@ -11,7 +11,7 @@ Please, refer to the document below for further information.
 <br/><br/>
 
 <hr/>
-<div align="center"> <h2> Research Interests </h2></div><br/>
+<div align="center"> <h2> Research Interests </h2></div>
 <ul>
 <li>Natural Language Processing : particularly more interested in developing a novel Language Model architecture.  </li>
 <li>Distributed Training (Ray, Hovorod) </li>
@@ -20,7 +20,6 @@ Please, refer to the document below for further information.
 
 <hr/>
 <div align="center"> <h2> Education </h2></div>
-<br/>
 <ul>
 <li>Whimoon High School (Seoul,Korea)</li>
 <ul>
@@ -28,7 +27,6 @@ Please, refer to the document below for further information.
 </ul>
 </ul>
 <br/>
-
 <ul><li>Yonsei University (Seoul,Korea)</li>
 <ul>
 <li>Intended Coursework | Econometrics, Quantitative Risk Management </li>
@@ -40,8 +38,6 @@ Please, refer to the document below for further information.
 
 <hr/>
 <div align="center"> <h2> Career </h2></div> 
-
-<br/>
 <ul>
 <li> Codeing (Student Startup) | AI Researcher </li>
 <ul>
