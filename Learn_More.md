@@ -9,7 +9,7 @@ Hi, I am an undergraduate student studying in Yonsei University.
 I've studied Artificial Intelligence for about a year and my prime interests are in the NLP Domain. For the moment, I am trying to expand my expertise to a wide variety of stuff like GNN, Vision, RL, or Distributed Training Strategies.  
 
 Please, refer to the document below for further information.   
-<br/><br/><br/>
+<br/><br/>
 <div align="center"> <h2> Research Interests </h2></div> 
 <hr/>
 - Natural Language Processing : particularly more interested in developing a novel Language Model architecture.  
@@ -20,12 +20,14 @@ Please, refer to the document below for further information.
 <hr/>
 
 #### Yonsei University (Seoul,Korea)
+
 - Intended Coursework | Econometrics, Quantitative Risk Management
 - GPA | 3.81 / 4.5
+
 <br/>
 #### Whimoon High School (Seoul,Korea)
 - Liberal Arts Track
-<br/><br/><br/>
+<br/><br/>
 <div align="center"> <h2> Career </h2></div> 
 <hr/>
 #### Codeing (Student Startup) | AI Researcher 
@@ -37,9 +39,12 @@ Please, refer to the document below for further information.
   - 2021.06 ~ 2021.09 
   - Reproduced [Decision Transformer](https://arxiv.org/pdf/2106.01345.pdf)
   - Developed Pretrained Language Model(PLM) based Zero-Shot Business section classifier
-<br/><br/><br/>
+<br/><br/>
 <div align="center"> <h2> Honors & Awards </h2></div> 
 <hr/>
+
+### Yangjae AI-HUB AI Idea Challenge | 2nd Place 
+### Flax Huggingace Community Week | Top - 15
 
 
 
