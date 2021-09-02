@@ -11,7 +11,7 @@ I've studied Artificial Intelligence for about a year and my prime interests are
 Please, refer to the document below for further information.   
 
 <div align="center"> <h2> Research Interests </h2></div> 
-<hr width=100% noshade />
+<hr/>
 - Natural Language Processing : particularly more interested in developing a novel Language Model architecture 
 - Distributed Training (Ray, Hovorod)
 - Multi-Model AI (NLP-VISION, ex. CLIP, DALL-E)
