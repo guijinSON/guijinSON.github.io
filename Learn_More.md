@@ -58,7 +58,6 @@ Please, refer to the document below for further information.
  <ul><li> Abstract <br/>
 Founded a free on campus Data Science progam educating students Python and simple Korean NLP techniques. Operated website ,with 2000+ cumulative visitors, providing lecture videos and sample codes. </li>
 </ul><br/>
- 
 <h3> KoCLIP</h3>
  <ul><li> Abstract <br/>
  KoCLIP, a Korean port for OpenAI's CLIP, is the first attempt ever to open-source a multi-modal A.I in Korean. Our team utilizes a transfer-learning like method, by fine-tuning pretrained text and image encoder models. Two versions of the model, Base and Large is provided through a repository in HuggingFace.</li> <br/>
@@ -70,11 +69,11 @@ Founded a free on campus Data Science progam educating students Python and simpl
   </ul>
 <li> Learn More at </li>
    <ul>
- <li> <a href="https://github.com/guijinSON/koclip.git"> Repository </a></li>
- <li> <a href="https://jiho-ml.com/weekly-nlp-42/"> Interview </a></li>
- <li> <a href="https://huggingface.co/spaces/flax-community/koclip"> Demo </a></li>
+ <li> Links to <a href="https://github.com/guijinSON/koclip.git"> Repository </a></li>
+ <li> Links to <a href="https://jiho-ml.com/weekly-nlp-42/"> Interview </a></li>
+ <li> Links to <a href="https://huggingface.co/spaces/flax-community/koclip"> Demo </a></li>
 </ul>
-   </ul>
+   </ul><br/>
 
 
 
@@ -86,8 +85,7 @@ Founded a free on campus Data Science progam educating students Python and simpl
 <li> <strong>Major Representative</strong> at Yonsei Underwood International College Economics, 2020 </li>
 <li> <strong>Top 15</strong> in Flax Huggingface Community Week, 2021 </li>
  <ul>
-  <li>
-   Link to <a href="https://github.com/guijinSON/koclip.git"> Repository </a>
+  <li>Link to <a href="https://github.com/guijinSON/koclip.git"> Repository </a></li>
  </ul>
 </ul>
 
