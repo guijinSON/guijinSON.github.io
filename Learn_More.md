@@ -43,7 +43,7 @@ Please, refer to the document below for further information.
 <hr/>
 <div align="center"> <h2> Projects </h2></div> 
 
- <li> <h3>ColorBERT </h3></li>
+<h3>ColorBERT</h3>
  <ul> <li> Abstract <br/>
   ColorBERT is a project that questions the color-sensitivity of Pretrained Language Models (PLM). Our research team discovers that PLM lacks commonsense regarding color, and therefore conducted additional sensory fine-tuning procedures to boost its understanding. We construct a multimodal pipeline containing ColorBERT and EfficientNet to benchmark its performance on Visual Question Answering tasks.</li> <br/>
   <li> Roles </li>
@@ -54,12 +54,12 @@ Please, refer to the document below for further information.
   </ul>
   <li> Links to <a href="https://github.com/guijinSON/color-bert"> Repo </a></li></ul><br/>
  
- <li> <strong>Data Science Boost I</strong> </li> 
+<h3>Data Science Boost I</h3>
  <ul><li> Abstract <br/>
 Founded a free on campus Data Science progam educating students Python and simple Korean NLP techniques. Operated website ,with 2000+ cumulative visitors, providing lecture videos and sample codes. </li>
 </ul><br/>
  
- <li> <strong> KoCLIP</strong> 
+<h3> KoCLIP</h3>
  <ul><li> Abstract <br/>
  KoCLIP, a Korean port for OpenAI's CLIP, is the first attempt ever to open-source a multi-modal A.I in Korean. Our team utilizes a transfer-learning like method, by fine-tuning pretrained text and image encoder models. Two versions of the model, Base and Large is provided through a repository in HuggingFace.</li> <br/>
  <li>Roles</li>
