@@ -88,6 +88,7 @@ Founded a free on campus Data Science progam educating students Python and simpl
    Link to <a href="https://github.com/guijinSON/koclip.git"> Repository </a>
  </ul>
 </ul>
+</ul>
 
 
 
