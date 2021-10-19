@@ -78,7 +78,7 @@ Founded a free on campus Data Science progam educating students Python and simpl
 
 <h3>SG-MLP</h3>
  <ul><li> Abstract <br/>
-SG-MLP proposes  an attentionless architecture for Natural Language Understanding(NLU), it leverages Multi-Layer Perceptron layers and a Mixture of Experts(MOE) structure to replace the attention mechanism. SG-MLP achieves decent results in the GLUE benchmark without the attention layer in both pretraining and fine-tuning process. Accepted at ACK 2021.</li> <br/>
+SG-MLP proposes an attentionless architecture for Natural Language Understanding(NLU), it leverages Multi-Layer Perceptron(MLP) layers and a Mixture of Experts(MOE) structure to replace the attention mechanism. SG-MLP achieves decent results in the GLUE benchmark without the attention layer in both pretraining and fine-tuning process. Accepted at ACK 2021.</li> <br/>
   <li>Roles</li>
  <ul>
   <li> Main Authored the paper "SG-MLP: Switch Gated Multi-Layer Perceptron Model for Natural Language Understanding" </li>
