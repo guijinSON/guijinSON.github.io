@@ -97,7 +97,7 @@ SG-MLP proposes an attentionless architecture for Natural Language Understanding
 
 <ul>
 <li> <strong>2nd Place</strong> in Yangjae AI-HUB AI Idea Challenge, 2020 </li>
-<li> <strong>Major Representative</strong> at Yonsei Underwood International College Economics, 2020 </li>
+<li> <strong>Major Representative</strong> at Yonsei Underwood International College Economics, 2021 </li>
 <li> <strong>Top 15</strong> in Flax Huggingface Community Week, 2021 </li>
  <ul>
   <li>Link to <a href="https://github.com/guijinSON/koclip.git"> Repository </a></li>
