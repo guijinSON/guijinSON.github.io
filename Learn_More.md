@@ -87,6 +87,7 @@ Founded a free on campus Data Science progam educating students Python and simpl
  <ul>
   <li>Link to <a href="https://github.com/guijinSON/koclip.git"> Repository </a></li>
  </ul>
+ <li> <strong>Top 10</strong> in Future AI Challenge(KB Bank), 2021 </li>
 </ul>
 
 
