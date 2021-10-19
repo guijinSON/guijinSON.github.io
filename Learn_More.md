@@ -36,6 +36,7 @@ Please, refer to the document below for further information.
 <li> 2021.06 ~ 2021.09 </li>
 <li>Reproduced  <a href="https://arxiv.org/pdf/2106.01345.pdf"> Decision Transformer</a></li>
 <li> Developed Pretrained Language Model(PLM) based Zero-Shot Business section classifier</li>
+<li> Designed a Zero-Shot Event Extraction Architecture leveraging KNN and Summarization Algorithms</li>
   </ul>
   </ul>
 <br/>
