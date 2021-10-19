@@ -61,7 +61,7 @@ Founded a free on campus Data Science progam educating students Python and simpl
 </ul><br/>
 <h3> KoCLIP</h3>
  <ul><li> Abstract <br/>
- KoCLIP, a Korean port for OpenAI's CLIP, is the first attempt ever to open-source a multi-modal A.I in Korean. Our team utilizes a transfer-learning like method, by fine-tuning pretrained text and image encoder models. Two versions of the model, Base and Large is provided through a repository in HuggingFace.</li> <br/>
+ KoCLIP, a Korean port for OpenAI's CLIP, is the first attempt ever to open-source a multi-modal A.I in Korean. Our team utilizes a transfer-learning like method, by fine-tuning pretrained text and image encoder models. Two versions of the model, Base and Large is provided through a repository in HuggingFace. Ranked top 15 among 100+ global teams in Flax/JAX hackathon co-organized by Hugging Face and Google</li> <br/>
  <li>Roles</li>
  <ul>
   <li> Took part in writing the training scripts for the model </li>
