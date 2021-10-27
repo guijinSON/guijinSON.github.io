@@ -102,7 +102,7 @@ SG-MLP proposes an attentionless architecture for Natural Language Understanding
  <ul>
   <li>Link to <a href="https://github.com/guijinSON/koclip.git"> Repository </a></li>
  </ul>
- <li> <strong>6th place<strong> in Future AI Challenge(KB Bank), 2021 </li>
+ <li> <strong>6th place</strong> in Future AI Challenge(KB Bank), 2021 </li>
   <ul>
   <li>Link to <a href="https://github.com/guijinSON/ZIP.git"> Repository </a></li>
  </ul>
@@ -120,6 +120,7 @@ SG-MLP proposes an attentionless architecture for Natural Language Understanding
 </ul><br/>
 <li>Yonsei University (Seoul,Korea)</li>
 <ul>
+<li> Underwood International College, Economics Major </li>
 <li>Intended Coursework | Econometrics, Quantitative Risk Management </li>
 <li>GPA | 3.81 / 4.5 </li>
 </ul>
