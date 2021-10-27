@@ -102,7 +102,7 @@ SG-MLP proposes an attentionless architecture for Natural Language Understanding
  <ul>
   <li>Link to <a href="https://github.com/guijinSON/koclip.git"> Repository </a></li>
  </ul>
- <li> <strong>Top 10</strong> in Future AI Challenge(KB Bank), 2021 </li>
+ <li> <strong>6th place<strong> in Future AI Challenge(KB Bank), 2021 </li>
   <ul>
   <li>Link to <a href="https://github.com/guijinSON/ZIP.git"> Repository </a></li>
  </ul>
