@@ -2,4 +2,5 @@ pages:
   - {name: 'Learn More', url: 'Learn_More.html'}
   - {name: 'Archive', url: 'archive.html'}
   - {name: 'Contact', url: 'contact.html'}
+  - {name: 'News', url: 'news.html'}
 
