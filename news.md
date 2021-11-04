@@ -14,7 +14,7 @@ title: News
   <dd>Elected as Major President at Yonsei Underwood International College Economics</dd>
 <dt> July. </dt>
   <dd>Ranked Top-15 in Flax-Huggingface Community Week</dd>
-<dt> October.<.dt> 
+<dt> October.</dt> 
   <dd> Ranked Top-10 in KB Bank Future AI Challenge</dd>
 <dt> November. </dt> 
   <dd> Appointed as Election Committee Chairperson at Yonsei Underwood International College</dd>
