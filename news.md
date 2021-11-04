@@ -6,19 +6,19 @@ title: News
 
 <dl>
 <h2>2020</h2>
-<dt><b> December.</b></dt> 
-  <BR><li>Ranked 2nd place in Yangjae AI-HUB AI Idea Challenge</li>
+<dt>December.</dt> 
+  <li>Ranked 2nd place in Yangjae AI-HUB AI Idea Challenge</li>
 
 <h2>2021</h2>
 <dt> April.</dt>
-  <dd>Elected as Major President at Yonsei Underwood International College Economics</dd>
+  <li>Elected as Major President at Yonsei Underwood International College Economics</li>
 <dt> July. </dt>
-  <dd>Ranked Top-15 in Flax-Huggingface Community Week</dd>
+  <li>Ranked Top-15 in Flax-Huggingface Community Week</li>
 <dt> October.</dt> 
-  <dd> Ranked Top-10 in KB Bank Future AI Challenge</dd>
+  <li> Ranked Top-10 in KB Bank Future AI Challenge</li>
 <dt> November. </dt> 
-  <dd> Appointed as Election Committee Chairperson at Yonsei Underwood International College</dd>
+  <li> Appointed as Election Committee Chairperson at Yonsei Underwood International College</li>
   
-  <dd> Authored "SG-MLP: Switch Gated Multi-Layer Perceptron Model for Natural Language Understanding". Paper accepted at ACK 2021. </dd>
+  <li> Authored "SG-MLP: Switch Gated Multi-Layer Perceptron Model for Natural Language Understanding". Paper accepted at ACK 2021. </li>
   
 </dl>
