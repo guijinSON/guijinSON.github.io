@@ -6,8 +6,8 @@ title: News
 
 <dl>
 <h2>2020</h2>
-<dt<b> December.</b></dt> 
-  <li>Ranked 2nd place in Yangjae AI-HUB AI Idea Challenge</li>
+<dt><b> December.</b></dt> 
+  <BR><li>Ranked 2nd place in Yangjae AI-HUB AI Idea Challenge</li>
 
 <h2>2021</h2>
 <dt> April.</dt>
