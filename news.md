@@ -15,10 +15,10 @@ title: News
            Updating
 
           
-        </td>
+
+         </td>
       </tr>
       
-      <tr>
 
     </table>
   
