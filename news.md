@@ -31,6 +31,6 @@ title: News
    
 <style>   
 main_content {
-	padding: 150px;
+	padding: 450px;
 }</style>
 
