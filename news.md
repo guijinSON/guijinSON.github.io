@@ -30,7 +30,7 @@ title: News
    </div>
    
 <style>   
-main_content {
+.main_content {
 	padding: 4000px;
 }</style>
 
