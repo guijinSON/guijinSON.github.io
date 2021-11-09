@@ -2,6 +2,7 @@
 layout: default
 title: News
 ---
+<div class="col-lg-">  
 <h1>NEWS</h1>
 
 <dl>
@@ -24,3 +25,4 @@ title: News
   <dd><li> Authored "SG-MLP: Switch Gated Multi-Layer Perceptron Model for Natural Language Understanding". Paper accepted at ACK 2021. </li></dd>
   
 </dl>
+ </div>
