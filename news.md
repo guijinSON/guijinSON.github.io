@@ -28,39 +28,9 @@ title: News
 </dl>
  </div>
    </div>
-css
-
-/* 본문 영역 */
-
-.entry_title {
-
-	font-size: 30px;
-
-	color: #46B884;
-
-}
-
-.entry_date {
-
-	font-size: 15px;
-
-	color: #BDBDBD;
-
-}
-
-.article {
-
-	font-size: 15px;
-
-	color: #5D5D5D;
-
-	padding-top: 30px;
-
-}
-
-.main_content {
-
+   
+<style>   
+main_content {
 	padding: 150px;
-
-}
+}</style>
 
