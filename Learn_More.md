@@ -41,6 +41,15 @@ Please, refer to the document below for further information.
   </ul>
 <br/>
 
+<br/>
+<ul>
+<li> LXPER |NLP Model Engineer</li>
+<ul>
+<li> 2021.10 ~ Present </li>
+  </ul>
+  </ul>
+<br/>
+
 <hr/>
 <div align="center"> <h2> Projects </h2></div> 
 
