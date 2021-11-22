@@ -107,6 +107,7 @@ SG-MLP proposes an attentionless architecture for Natural Language Understanding
   <ul>
   <li>Link to <a href="https://github.com/guijinSON/ZIP.git"> Repository </a></li>
  </ul>
+<li> <strong> Student Speaker</strong> at TedXYonseiUniversity, 2021 </li>
 </ul>
 
 
