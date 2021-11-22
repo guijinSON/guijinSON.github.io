@@ -23,6 +23,7 @@ title: News
 <dt> November. </dt> 
   <dd><li> Appointed as <b>Election Committee Chairperson</b> at Yonsei Underwood International College</li></dd>
   <dd><li> Authored "SG-MLP: Switch Gated Multi-Layer Perceptron Model for Natural Language Understanding". <b>Paper accepted at ACK 2021.</b> </li></dd>
+  <dd><li> Student speaker at TedxYonseiUniversity. </li></dd>
   
 </dl>
 
