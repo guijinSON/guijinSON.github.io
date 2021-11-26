@@ -1,9 +1,9 @@
 ---
 title: Curiosity Powered Reinforcement Learning.
 layout: post
-categories: [RL,Sparse Reward,Long Term Dependency]
+categories: [NLP, Attention, MLP]
 image: assets/img/An Intrinsic Motivation for Reinforcement Learning/cover.png
-description: "Curiosity Powered Reinforcement Learning."
+description: "SGMLP"
 ---
 
 Indeed, it's been a while since my last post on this blog, and to make an excuse, I have been quite busy the last few month. 
