@@ -13,6 +13,8 @@ Unfortunately, the paper left much to be desired for it to be called well-writte
 One significant limitation of my paper was that it was written in Korean, making it hard to be shared with non-Korean communities. 
 Being so, todays post is an English review for my paper hoping that our findings can also be easily delivered to others. 
 
+- [Link to our paper.](https://doi.org/10.3745/PKIPS.y2021m11a.1116)
+
 Nonetheless, despite such, I am still fairly proud that I started making novel contributions to the field and is eager to keep up my career as an A.I researcher. 
 
 * hello
