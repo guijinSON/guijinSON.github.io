@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+Started my research internship at Kaist. I am working on building a language model tailored for the finance domain.
