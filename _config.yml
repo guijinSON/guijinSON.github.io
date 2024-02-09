@@ -139,6 +139,7 @@ kramdown:
 # Includes & excludes
 include:
   - _pages/about.md
+  - _pages/publications.md
 exclude:
   - bin
   - CONTRIBUTING.md
