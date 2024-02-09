@@ -2,7 +2,7 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title:  # the website title (if blank, full name will be used instead)
+title: Guijin Son # the website title (if blank, full name will be used instead)
 first_name: Guijin
 middle_name: 
 last_name: Son
@@ -67,9 +67,9 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 # Social integration
 # -----------------------------------------------------------------------------
 
-github_username: guijinSON # your GitHub user name
+github_username: # your GitHub user name
 gitlab_username: # your GitLab user name
-x_username: @gson_AI # your X handle
+x_username: # your X handle
 mastodon_username: # your mastodon instance+username in the format instance.tld/@username
 linkedin_username: # your LinkedIn user name
 telegram_username: # your Telegram user name
