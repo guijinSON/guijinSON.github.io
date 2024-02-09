@@ -5,4 +5,5 @@ inline: true
 related_posts: false
 ---
 
-Started my research internship at KAIST. I am working on building a language model tailored for the finance domain.
+Started my research internship at KAIST. 
+I am working on building a language model tailored for the finance domain.
