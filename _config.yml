@@ -140,6 +140,7 @@ kramdown:
 include:
   - _pages/about.md
   - _pages/publications.md
+  - _pages/news.md
 exclude:
   - bin
   - CONTRIBUTING.md
