@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-[HAE-RAE Bench: Evaluation of Korean Knowledge in Language Models](https://arxiv.org/abs/2309.02706) is accepted to LREC-COLING 2024.
+My paper on [HAE-RAE Bench](https://arxiv.org/abs/2309.02706) got accepted to [LREC-COLING 2024](https://lrec-coling-2024.org/).
