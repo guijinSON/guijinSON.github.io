@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://guijinson.github.io/sitemap.xml
+Sitemap: https://guijinson.github.io/home/sitemap.xml
